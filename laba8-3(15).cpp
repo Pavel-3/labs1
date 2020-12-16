@@ -10,7 +10,6 @@ double solution(int n, int i = 0)
         return 1;
 }
 
-
 int main()
 {
     setlocale(LC_ALL, "ru");
